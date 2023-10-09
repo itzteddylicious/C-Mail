@@ -1,4 +1,4 @@
-# __Wiki__
+# __C-Mail__
 #### Video Demo: <https://youtu.be/oYb-h8aBIaQ>
 
 ## __Definition__
